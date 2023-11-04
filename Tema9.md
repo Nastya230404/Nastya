@@ -54,10 +54,10 @@
 •	Растение, за которым он ухаживает Он может:
 •	Ухаживать за растением
 •	Собирать с него урожай
-
+###
 ![Меню](https://github.com/Nastya230404/Nastya/blob/%D0%A2%D0%B5%D0%BC%D0%B09/pic/sam1.png)
 ![Меню](https://github.com/Nastya230404/Nastya/blob/%D0%A2%D0%B5%D0%BC%D0%B09/pic/sam1.2.png)
-[Меню](https://github.com/Nastya230404/Nastya/blob/%D0%A2%D0%B5%D0%BC%D0%B09/pic/sam1.3.png)
+![Меню](https://github.com/Nastya230404/Nastya/blob/%D0%A2%D0%B5%D0%BC%D0%B09/pic/sam1.3.png)
 
 ## Самостоятельная работа №2
 ### Класс Tomato:
